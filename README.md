@@ -20,7 +20,7 @@ Creato come strumento pratico, questo script permette di calcolare rapidamente i
 
 1. Clona questo repository in locale:
    ```bash
-   git clone https://github.com/TUO-USERNAME/subnet-ninja.git
+   git clone https://github.com/Gattospia555/subnet-ninja.git
    cd subnet-ninja
    ```
 
