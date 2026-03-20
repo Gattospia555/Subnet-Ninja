@@ -2,7 +2,7 @@
 
 Un calcolatore di subnet a riga di comando elegante, veloce e colorato, sviluppato in Python. 
 
-Creato come strumento pratico durante la preparazione per la certificazione **Cisco CCST Networking**, questo script permette di calcolare rapidamente i parametri fondamentali di una rete IPv4 direttamente dal terminale.
+Creato come strumento pratico, questo script permette di calcolare rapidamente i parametri fondamentali di una rete IPv4 direttamente dal terminale.
 
 ## ✨ Funzionalità
 
